@@ -1,0 +1,7 @@
+{
+  "name": "Material Return Fms Pmmpl",
+  "description": "A comprehensive Forwarding Management System (FMS) workflow application with Google Sheets backend, featuring step-by-step progress tracking, automated timestamping, and Google Drive image integration.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
